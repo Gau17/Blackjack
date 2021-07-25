@@ -1,7 +1,7 @@
 # Introduction:
 This is a simple blackjack program built using Python. The game can be played by any number of players.
 # How to use:
-- Run the blackjack.py file. The program will first prompt the user to enter the number of players. 
+- Download and run the blackjack.py file. The program will first prompt the user to enter the number of players. 
 - It will then prompt each player to enter his/her bet. Then it displays each player’s hand and one of the dealer’s cards. 
 - Then it will prompt each user choose to Hit, Stand, Doubledown(in first turn) or Split ( if the user has a pair of cards).
 - Enter 1, 2, 3, or 4 to Hit, Stand, Doubledown or Split respectively. After each players’s turn, the program displays dealer’s cards. 
